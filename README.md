@@ -18,7 +18,10 @@ Our app is a user-friendly platform that serves to provide mobile food vendors a
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a customer, I want to get preorder my food at a specific time slot so that I could be more productive with my time.
+2. As a customer, I want to pay electronically so that I do not have to get cash.
+3. As a customer, I want to see all available food trucks in my area so that I can go to the nearest one.
+4. As a customer, I want to log in so that I can check my preorder time.
 
 ## Activity Diagrams
 
