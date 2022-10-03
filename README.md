@@ -25,4 +25,6 @@ Our app is a user-friendly platform that serves to provide mobile food vendors a
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+- As a mobile food vendor, I want to view the current pending orders from my customers so that I can serve them.
+
+![UML_1](UML1.jpg)
