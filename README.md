@@ -8,7 +8,7 @@ A little exercise to get started with the specification phase of the software de
 [Seok Tae Kim](https://github.com/seoktaekim)  
 [Michael Ma](https://github.com/mma01us/)
 [Manny Soto Ruiz](https://github.com/MannySotoRuiz)
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Jiawei Zhang](https://github.com/jiawei-zhang-a)
 
 ## Stakeholders
 
@@ -45,6 +45,9 @@ Our app is a user-friendly platform that serves to provide mobile food vendors a
 9. As a mobile food vendor, I want to show and edit my truck location so that customers can still find me if my truck has to move.
 10. As a mobile food vendor, I want to view the current pending orders from my customers so that I can serve them.
 11. As a customer, I want to get the reviews of the trucks so that I can taste the best street foods.
+12. As a mobile food vendor, I want to list and edit the food items I sell so that customers can order them. 
+13. As a mobile food vendor, I want to be able to take large amounts of orders so that I can maximize my profits.
+14. As a customer, I want to check whether the truck nearby is available or closed that day because certain truck might not show all the time and they are closed after 5 pm or 6 pm which is quite flexible. If an app could show if it is closed or not then it will be much more convenient
 
 
 ## Activity Diagrams
@@ -52,6 +55,10 @@ Our app is a user-friendly platform that serves to provide mobile food vendors a
 - As a mobile food vendor, I want to view the current pending orders from my customers so that I can serve them.
 
 ![UML_1](UML1.jpg)
+
+- As a customer, I want to see all available food trucks in my area so that I can go to the nearest one.
+![UML_2](UML2.jpg)
+
 
 ## Prototype Link
 [Prototype](https://www.figma.com/file/bFibhPH28vJeO0e7Wsk4J6/Food-Truck-Order-App?node-id=0%3A1)
