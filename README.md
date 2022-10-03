@@ -6,8 +6,11 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Seok Tae Kim](https://github.com/seoktaekim)  
+
 [Michael Ma](https://github.com/mma01us/)
+
 [Manny Soto Ruiz](https://github.com/MannySotoRuiz)
+
 [Jiawei Zhang](https://github.com/jiawei-zhang-a)
 
 ## Stakeholders
