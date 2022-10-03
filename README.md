@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
+Seok Tae Kim - https://github.com/seoktaekim
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
@@ -13,7 +14,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our app is a user-friendly platform that serves to provide mobile food vendors and customers with the ability to pre-order food to reduce wait-time, help spread awareness of food trucks’ locations and products, and allow the use of online paying services for purchases.
 
 ## User Requirements
 
