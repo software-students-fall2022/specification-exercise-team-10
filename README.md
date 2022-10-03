@@ -28,3 +28,6 @@ Our app is a user-friendly platform that serves to provide mobile food vendors a
 - As a mobile food vendor, I want to view the current pending orders from my customers so that I can serve them.
 
 ![UML_1](UML1.jpg)
+
+## Prototype Link
+[Prototype](https://www.figma.com/file/bFibhPH28vJeO0e7Wsk4J6/Food-Truck-Order-App?node-id=0%3A1)
