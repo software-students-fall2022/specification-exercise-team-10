@@ -6,7 +6,8 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Seok Tae Kim](https://github.com/seoktaekim)  
-[Michael Ma](https://github.com/mma01us/)  
+[Michael Ma](https://github.com/mma01us/)
+[Manny Soto Ruiz](https://github.com/MannySotoRuiz)
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
@@ -41,6 +42,10 @@ Our app is a user-friendly platform that serves to provide mobile food vendors a
 6. As a customer, I want to see how busy each mobile food vendor is so that I can know how long it would take to get my order.
 7. As a mobile food vendor, I want to register my truck on the app so that users can see and order from my truck through the app.
 8. As a mobile food vendor, I want to login to the app so that I can access my truck’s details in the app.
+9. As a mobile food vendor, I want to show and edit my truck location so that customers can still find me if my truck has to move.
+10. As a mobile food vendor, I want to view the current pending orders from my customers so that I can serve them.
+11. As a customer, I want to get the reviews of the trucks so that I can taste the best street foods.
+
 
 ## Activity Diagrams
 
