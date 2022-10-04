@@ -64,4 +64,4 @@ Our app is a user-friendly platform that serves to provide mobile food vendors a
 
 
 ## Prototype Link
-[Prototype](https://www.figma.com/file/bFibhPH28vJeO0e7Wsk4J6/Food-Truck-Order-App?node-id=0%3A1)
+[Prototype](https://www.figma.com/proto/bFibhPH28vJeO0e7Wsk4J6/Food-Truck-Order-App?node-id=29%3A1998&starting-point-node-id=29%3A1998)
